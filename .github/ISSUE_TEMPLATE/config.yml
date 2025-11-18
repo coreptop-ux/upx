@@ -1,1 +1,18 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
+contact_links:
+	- name: "Support email"
+		url: "mailto:support@termux.dev"
+		about: "Soporte por email para usuarios"
+	- name: "Termux (App)"
+		url: "https://github.com/termux/termux-app"
+		about: "Repositorio de la app Termux"
+	- name: "termux-packages"
+		url: "https://github.com/termux/termux-packages"
+		about: "Repositorio de paquetes de Termux"
+	- name: "Reddit"
+		url: "https://www.reddit.com/r/termux"
+		about: "Comunidad en Reddit"
+	- name: "Wiki"
+		url: "https://wiki.termux.com"
+		about: "Documentación y guías de Termux"
+
